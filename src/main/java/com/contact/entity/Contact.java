@@ -41,7 +41,7 @@ public class Contact {
     private LocalDateTime updatedAt;
 
     public Contact() {
-        // Required by JPA
+        
     }
 
     @PrePersist
